@@ -1,0 +1,15 @@
+$color-root: #500fe9;
+
+.root {
+    width: 300px;
+    height: 100px; 
+    padding: 10px 20px;
+    color: $color-root;
+    background-color: #ffffff;
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
